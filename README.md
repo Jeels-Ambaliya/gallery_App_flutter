@@ -1,24 +1,41 @@
-# gallery_app
+![MasterHead](https://cdn.go2topit.com/assets/img/service-details/17_Mobile%20App%20Development.gif)
+<h1 align="center">Hi 👋, I'm Jeels Ambaliya</h1>
+<h2 align="center">A Passionate App Developer from India</h2>
+<img align="right" alt="coding" width="300" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-A new Flutter project.
+- 🌱 I’m currently learning **Advance Flutter**
 
-## Getting Started
+- 👨‍💻 All of my projects are available at [https://github.com/Jeels-Ambaliya](https://github.com/Jeels-Ambaliya)
 
-This project is a starting point for a Flutter application.
+- 💬 Ask me about **Flutter**
 
-A few resources to get you started if this is your first Flutter project:
+- 📫 How to reach me **19bmiit062@gmail.com**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<br /><br /><br /><br />
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Gallery Viwer App
+
+Category-Based Gallery Viewer App with Advanced Search Functionality.
+
+<br /><br />
 
 
-## Full Demo
+## Features
+
+- Spleshscreen
+- Live search based on your keyword
+- Categorywise image show
+- Dark and light mode
+- Fullscreen image preview
+
+<br /><br />
+
+
+## Applicarion Preview
  
 <img src = "https://github.com/Jeels-Ambaliya/gallery_App_flutter/assets/123535768/6b09d246-3d42-40b0-9882-d8e0fc42f2eb" width = "200px">        <img src = "https://github.com/Jeels-Ambaliya/gallery_App_flutter/assets/123535768/6ac7b62d-4861-438a-9967-401556cce4e2" width = "200px">
+
+<br /><br />
 
 
 ## Screenshots
